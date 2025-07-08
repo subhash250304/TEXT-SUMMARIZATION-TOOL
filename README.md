@@ -3,6 +3,7 @@ name:sunkenapllay subhash
 Intern ID :CT06DM1020
 domain:artifical intelligence
 duration:45 days
+mentor :neela santhosh
 CODTECH AI Internship Tasks: A GitHub Repository Overview
 
 This repository serves as a comprehensive collection of projects undertaken during the CODTECH Artificial Intelligence Internship. It showcases practical applications of AI and machine learning concepts, developed through a series of four distinct tasks. The work within this repository adheres to best practices, including detailed code commenting for enhanced readability and maintainability, and leverages various online resources for efficient problem-solving. A completion certificate will be issued upon the internship's conclusion. 
